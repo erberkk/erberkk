@@ -1,53 +1,101 @@
-<h2 align="left">Hi 👋! My name is Erberk.</h2>
-<h3 aling="left">I'am a Full-Stack Software Developer.</h3>
+# Hi, I'm Erberk!  
+### Full-Stack Software Developer
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/nFu8kI7DzikAAAAd/anime-jujutsu-kaisen.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://media1.tenor.com/m/IJ3zsdxeavAAAAAC/studio-ghibli-ponyo-on-the-cliff.gif" alt="Jujutsu Kaisen GIF" width="250" style="border-radius: 15px;" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/_erberk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+## 🚀 About Me  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      I'm a Software Engineer focused on full-stack development, backend systems, and AI-driven applications. I build scalable solutions using technologies like Python, Angular, React, and .NET, and enjoy solving real-world problems through code.
+    </td>
+    <td width="50%" valign="top">
+      - 📫 Reach me at: akbuluterberk@gmail.com  
+      <br />
+      - 🎓 Software Engineering Student, Beykoz University  
+      <br />
+      - 📍 Based in Istanbul, Türkiye  
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
+        <img width="12" />
+      </td>
+      <td width="50%" align="center">
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erberkk&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 📱 Connect with Me  
+
+<div align="center">
   <a href="https://www.linkedin.com/in/erberk-akbulut/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_erberk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
-</picture>
-
-###
+*“Code is art, and every line tells a story.”*  
+Let’s create something extraordinary together! 🚀
