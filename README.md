@@ -94,8 +94,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
-
-*“Code is art, and every line tells a story.”*  
-Let’s create something extraordinary together! 🚀
