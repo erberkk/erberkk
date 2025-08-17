@@ -63,6 +63,11 @@
 
 ---
 
+### 🎵 Spotify
+[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify)](https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6)
+
+---
+
 ## 🐍 Contribution Snake  
 
 <div align="center">
