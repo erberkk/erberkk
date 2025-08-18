@@ -52,7 +52,7 @@
 
 ---
 
-## 🎶 Now Playing on Spotify  
+## 🎶 Spotify  
 
 <div align="center">
 
