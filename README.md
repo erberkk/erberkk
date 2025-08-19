@@ -52,12 +52,10 @@
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1f9cd1a5-0740-4167-b958-c7664ec1bc93" /> Spotify  
-
 <div align="center">
 
-[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify)](https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6)
-
+[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/zk0e8yk1gnwx793n61k0aflb6)](https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6)
+            
 </div>
 
 ---
