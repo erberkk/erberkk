@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/zk0e8yk1gnwx793n61k0aflb6)
+[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/zk0e8yk1gnwx793n61k0aflb6)](https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6)
            
 </div>
 
