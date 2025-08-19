@@ -52,7 +52,7 @@
 
 ---
 
-## 🎶 Spotify  
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1f9cd1a5-0740-4167-b958-c7664ec1bc93" /> Spotify  
 
 <div align="center">
 
