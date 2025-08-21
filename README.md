@@ -1,6 +1,8 @@
-# Hi, I'm Erberk! 👋  
-### Full-Stack Software Developer
+<div align="center">
 
+# Hi, I'm Erberk | Full-Stack Software Developer
+
+</div>
 <div align="center">
   <img src="https://media1.tenor.com/m/IJ3zsdxeavAAAAAC/studio-ghibli-ponyo-on-the-cliff.gif" width="250" style="border-radius: 15px;" />
 </div>
