@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Erberk | Full-Stack Software Developer
+# Hi, I'm Erberk | Full-Stack Software Engineer  
 
 </div>
 <div align="center">
@@ -9,16 +9,14 @@
 
 ---
 
-## 🚀 About Me  
-
 <div align="center">
 
-💻 I'm a **Full-Stack Software Engineer** passionate about building scalable solutions with  
+I'm a **Full-Stack Software Engineer** passionate about building scalable solutions with  
 **Python, .NET, React, Angular, and AI-driven applications.**
 
-📚 Software Engineering Student @ **Beykoz University**  
+🎓 Software Engineering Student @ **Beykoz University**  
 📍 Based in **Istanbul, Türkiye**  
-📫 Reach me at: **akbuluterberk@gmail.com**  
+📫 Reach me at: akbuluterberk@gmail.com
 
 </div>
 
@@ -26,23 +24,17 @@
 
 ## 🛠️ Tech Stack  
 
-<div align="center">
-
-### 🌐 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular" />  
-
----
-
-### ⚙️ Backend & Database  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" title=".NET Core" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
+</p>
 
 ---
 
