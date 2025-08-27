@@ -41,7 +41,7 @@ I'm a **Full-Stack Software Engineer** passionate about building scalable soluti
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erberkk&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-streak-stats-gray.vercel.app/api/github/erberkk/svg" alt="GitHub Streak Stats" width="1000" height="320" />
 </div>
 
 ---
