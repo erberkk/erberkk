@@ -34,6 +34,11 @@ I'm a **Full-Stack Software Engineer** passionate about building scalable soluti
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase" />
 </p>
 
 ---
