@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Erberk | Full-Stack Software Engineer  
+# Hi, I'm Erberk | Software Engineer  
 
 </div>
 <div align="center">
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-I'm a **Full-Stack Software Engineer** passionate about building scalable solutions with  
+I'm a Software Engineer passionate about building scalable solutions with  
 **Python, .NET, React, Angular, and AI-driven applications.**
 
 🎓 Software Engineering Student @ **Beykoz University**  
