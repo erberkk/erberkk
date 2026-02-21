@@ -76,7 +76,4 @@ I'm a Software Engineer passionate about building scalable solutions with
   <a href="https://www.linkedin.com/in/erberk-akbulut/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_erberk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
