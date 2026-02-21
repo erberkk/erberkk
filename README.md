@@ -15,7 +15,6 @@ I'm a Software Engineer passionate about building scalable solutions with
 **Python, .NET, React, Angular, and AI-driven applications.**
 
 🎓 Software Engineering Student @ **Beykoz University**  
-📍 Based in **Istanbul, Türkiye**  
 📫 Reach me at: akbuluterberk@gmail.com
 
 </div>
