@@ -67,13 +67,3 @@ I'm a Software Engineer passionate about building scalable solutions with
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-## 📱 Connect with Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/erberk-akbulut/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
