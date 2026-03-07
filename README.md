@@ -11,34 +11,12 @@
 
 <div align="center">
 
-I'm a Software Engineer passionate about building scalable solutions with  
-**Python, .NET, React, Angular, and AI-driven applications.**
+I'm a Software Engineer passionate about building scalable solutions.
 
 🎓 Software Engineering Student @ **Beykoz University**  
 📫 Reach me at: akbuluterberk@gmail.com
 
 </div>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase" />
-</p>
 
 ---
 
