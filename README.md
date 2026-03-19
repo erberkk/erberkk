@@ -7,7 +7,6 @@
   <img src="https://media1.tenor.com/m/IJ3zsdxeavAAAAAC/studio-ghibli-ponyo-on-the-cliff.gif" width="250" style="border-radius: 15px;" />
 </div>
 
----
 
 <div align="center">
 
