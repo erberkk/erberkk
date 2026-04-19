@@ -19,7 +19,7 @@ I'm a Software Engineer passionate about building scalable solutions.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack   
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
