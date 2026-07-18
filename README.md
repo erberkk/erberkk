@@ -12,7 +12,6 @@
 
 I'm a Software Engineer passionate about building scalable solutions.
 
-🎓 Software Engineering Student @ **Beykoz University**  
 📫 Reach me at: akbuluterberk@gmail.com
 
 </div>
