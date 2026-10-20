@@ -1,45 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg?v=2" alt="Erberk Akbulut, Software Engineer at Aras Kargo, İstanbul" width="100%" />
+</p>
 
-# Hi, I'm Erberk | Software Engineer  
+<p align="center">
+  <a href="https://www.erberkakbulut.com/"><img src="./assets/website.svg" alt="erberkakbulut.com" height="36" /></a>
+  <a href="mailto:akbuluterberk@gmail.com"><img src="./assets/email.svg" alt="akbuluterberk@gmail.com" height="36" /></a>
+</p>
 
-</div>
-<div align="center">
-  <img src="https://media1.tenor.com/m/IJ3zsdxeavAAAAAC/studio-ghibli-ponyo-on-the-cliff.gif" width="250" style="border-radius: 15px;" />
-</div>
+### Activity
 
+<a href="https://github-streak-stats-gray.vercel.app/user/erberkk"><img src="https://github-streak-stats-gray.vercel.app/api/github/erberkk/svg" alt="GitHub contribution streak" width="100%" /></a>
 
-<div align="center">
+### Listening
 
-I'm a Software Engineer passionate about building scalable solutions.
+<a href="https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6"><img src="https://spotify-for-readme-pi.vercel.app/api/spotify/zk0e8yk1gnwx793n61k0aflb6" alt="Spotify: now playing and top tracks" width="100%" /></a>
 
-📫 Reach me at: akbuluterberk@gmail.com
-
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-streak-stats-gray.vercel.app/api/github/erberkk/svg" alt="GitHub Streak Stats" width="1000" height="320" />
-</div>
-
----
-
-<div align="center">
-
-[![Spotify Summary](https://spotify-for-readme-pi.vercel.app/api/spotify/zk0e8yk1gnwx793n61k0aflb6)](https://open.spotify.com/user/zk0e8yk1gnwx793n61k0aflb6)
-                       
-</div>
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/erberkk/erberkk/output/github-snake.svg" />
-  </picture>
-</div>
+<p align="center"><sub>Both cards are my own projects: <a href="https://github.com/erberkk/github-streak-stats">github-streak-stats</a> · <a href="https://github.com/erberkk/spotify-stats">spotify-stats</a></sub></p>
