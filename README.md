@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.erberkakbulut.com/"><img src="./assets/website.svg" alt="erberkakbulut.com" height="36" /></a>
-  <a href="mailto:akbuluterberk@gmail.com"><img src="./assets/email.svg" alt="akbuluterberk@gmail.com" height="36" /></a>
+  <a href="mailto:akbuluterberk@gmail.com"><img src="./assets/email.svg" alt="erberk@erberkakbulut.com" height="36" /></a>
 </p>
 
 ### Activity
