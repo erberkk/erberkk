@@ -1,10 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="224" height="36" viewBox="0 0 224 36" role="img" aria-label="akbuluterberk@gmail.com">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="36" viewBox="0 0 224 36" role="img" aria-label="erberk@erberkakbulut.com">
   <style>
-    svg{--bg:#ffffff;--border:#d0d7de;--text:#1f2328;--muted:#656d76}
-    @media (prefers-color-scheme: dark){svg{--bg:#0d1117;--border:#30363d;--text:#e6edf3;--muted:#8b949e}}
-    text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;font-size:13px;font-weight:500;fill:var(--text)}
+    svg {
+      --bg: #ffffff;
+      --border: #d0d7de;
+      --text: #1f2328;
+      --muted: #656d76;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+        --bg: #0d1117;
+        --border: #30363d;
+        --text: #e6edf3;
+        --muted: #8b949e;
+      }
+    }
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      fill: var(--text);
+    }
   </style>
-  <rect x="0.5" y="0.5" width="223" height="35" rx="17.5" style="fill:var(--bg);stroke:var(--border)"/>
-  <g transform="translate(16 10) scale(0.6667)" style="fill:none;stroke:var(--muted);stroke-width:2;stroke-linecap:round;stroke-linejoin:round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></g>
-  <text x="40" y="22.5">akbuluterberk@gmail.com</text>
+  <rect x="0.5" y="0.5" width="223" height="35" rx="17.5"
+        style="fill:var(--bg);stroke:var(--border)"/>
+  <g transform="translate(16 10) scale(0.6667)"
+     style="fill:none;stroke:var(--muted);stroke-width:2;stroke-linecap:round;stroke-linejoin:round">
+    <rect width="20" height="16" x="2" y="4" rx="2"/>
+    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+  </g>
+  <text x="40" y="22.5">erberk@erberkakbulut.com</text>
 </svg>
